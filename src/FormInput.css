@@ -1,0 +1,22 @@
+div {
+    width: fit-content;
+    margin: 50px auto;
+}
+
+table {
+    border-collapse: collapse;
+    border: none;
+}
+
+td {
+    border: 1px solid gray;
+}
+
+h1,
+.button {
+    text-align: center;
+}
+
+input:focus {
+    background-color: greenyellow;
+}
